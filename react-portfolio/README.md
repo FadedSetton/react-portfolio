@@ -1,12 +1,53 @@
-# React + Vite
+# React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my React Portfolio! This application showcases my web development projects using modern tools like React, Vite, and React Router. It features smooth navigation, clean design, and responsive layout with a custom dark theme.
 
-Currently, two official plugins are available:
+##  Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ [View Deployed Portfolio on Netlify](https://your-netlify-url.netlify.app)
 
-## Expanding the ESLint configuration
+##  ScreenShots
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+###  About Me
+![About Me](./src/assets/about-screenshot.png)
+
+###  Portfolio
+![Portfolio](./src/assets/portfolio-screenshot.png)
+
+###  Contact
+![Contact](./src/assets/contact-screenshot.png)
+
+###  Resume
+![Resume](./src/assets/resume-screenshot.png)
+
+
+##  Technologies Used
+
+- React
+- Vite
+- React Router DOM
+- JavaScript (ES6+)
+- Custom CSS
+- Netlify (Deployment)
+
+## Project Structure
+
+- `About` section with bio and profile image
+- `Portfolio` section showcasing 6 projects (images, live links, GitHub repos)
+- `Contact` section with form validation and email display
+- `Resume` section with downloadable PDF and list of proficiencies
+- Reusable components: Header, Navigation, Footer, Project
+
+##  Developer
+
+**Chris Munoz**
+
+-  Email: [chrismunozpro@email.com](chrismunozpro@gmail.com)
+-  GitHub: [ Fadedsetton](https://github.com/FadedSetton)
+
+##  License
+
+MIT
+
+---
+
