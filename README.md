@@ -4,7 +4,7 @@ Welcome to my React Portfolio! This application showcases my web development pro
 
 ##  Live Site
 
- [View Deployed Portfolio on Netlify](https://your-netlify-url.netlify.app)
+ [View Deployed Portfolio on Netlify](https://chris-munoz-portfolio.netlify.app/)
 
 ##  ScreenShots
 
