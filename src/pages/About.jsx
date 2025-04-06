@@ -2,8 +2,8 @@ function About() {
     return (
       <section className="about">
         <img
-          src="/src/assets/profileImg.png"
-          alt="Profile"
+          src="/profileImg.png"
+           alt="Profile"
           className="profile-pic"
         />
         <div className="bio">
