@@ -39,6 +39,37 @@
     padding: 2rem;
   }
 
+  .portfolio {
+    padding: 2rem 0;
+  }
+  
+  .project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+  }
+  
+  .project-card {
+    background-color: var(--color-muted-green);
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .project-image {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+  .project-links a {
+    display: inline-block;
+    margin: 0.5rem;
+    color: var(--color-gold);
+    font-weight: bold;
+  }
+  
+
   .about {
     display: flex;
     align-items: center;
@@ -48,8 +79,8 @@
   
   .profile-pic {
     width: 150px;
-    height: 150px;
-    border-radius: 50%;
+    height: 170px;
+    border-radius: 30%;
     object-fit: cover;
     border: 3px solid var(--color-gold);
   }
