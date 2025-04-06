@@ -38,4 +38,23 @@
   main {
     padding: 2rem;
   }
+
+  .about {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+  
+  .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid var(--color-gold);
+  }
+  
+  .bio {
+    max-width: 600px;
+  }
   
