@@ -6,7 +6,7 @@ function Portfolio() {
     {
       title: 'Book Worm',
       image: 'https://raw.githubusercontent.com/FadedSetton/BookWorm/refs/heads/main/assets/saved-books.png',
-      deployedLink: 'https://example.com',
+      deployedLink: 'https://bookworm-q7n9.onrender.com/',
       githubLink: 'https://github.com/FadedSetton/BookWorm'
     },
     {
