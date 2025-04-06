@@ -1,0 +1,41 @@
+:root {
+    --color-light: #FDFDFF;
+    --color-gold: #E2C044;
+    --color-dark: #232C33;
+    --color-muted-green: #798478;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: var(--color-dark);
+    color: var(--color-light);
+  }
+  
+  header, footer {
+    background-color: var(--color-muted-green);
+    padding: 1rem;
+    color: var(--color-light);
+  }
+  
+  nav ul {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: var(--color-light);
+    font-weight: bold;
+  }
+  
+  nav a.active {
+    color: var(--color-gold);
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  

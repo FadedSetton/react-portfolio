@@ -1,7 +1,7 @@
 function Footer() {
     return (
       <footer>
-        <p>© {new Date().getFullYear()} Chris</p>
+        <p>© {new Date().getFullYear()} Chris Munoz</p>
         <ul>
           <li><a href="https://github.com/FadedSetton" target="_blank" rel="noopener noreferrer">GitHub</a></li>
         </ul>
